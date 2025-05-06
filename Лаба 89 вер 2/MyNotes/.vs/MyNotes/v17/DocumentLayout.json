@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|d:\\\u0432\u0443\u0437\\\u0433\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0441\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u043B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\mynotes\\mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259959AB-5E9A-493F-8B1E-03D4BD6256D2}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\NoteDto.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:12:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:10:15.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:08:39.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:31:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyNotes\\appsettings.Development.json",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeToolTip": "MyNotes\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T17:12:55.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:54:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Models\\Note.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeToolTip": "MyNotes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:50:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "MyNotes\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:44:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0413\u0435\u0440\u0446\u0435\u043D\u0430\\3 \u043A\u0443\u0440\u0441\\\u0421\u0430\u0439\u0442\u044B\\6 \u0441\u0435\u043C\\react_studying\\\u041B\u0430\u0431\u0430 89 \u0432\u0435\u0440 2\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeToolTip": "MyNotes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:41:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
