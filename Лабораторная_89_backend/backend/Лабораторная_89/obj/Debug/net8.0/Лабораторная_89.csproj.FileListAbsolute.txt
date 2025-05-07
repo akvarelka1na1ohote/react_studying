@@ -1,0 +1,312 @@
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\appsettings.Development.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\appsettings.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.staticwebassets.endpoints.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.exe
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.deps.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.runtimeconfig.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.pdb
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.AssemblyReference.cache
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfoInputs.cache
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfo.cs
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.CoreCompileInputs.cache
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cs
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cache
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\scopedcss\bundle\Лабораторная_89.styles.css
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets.development.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.build.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\________.7E54A1F5.Up2Date
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\refint\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.pdb
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.genruntimeconfig.cache
+D:\Мои работы\Лабораторная_89\Лабораторная_89\Лабораторная_89\obj\Debug\net8.0\ref\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.AssemblyReference.cache
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfoInputs.cache
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfo.cs
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.CoreCompileInputs.cache
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cs
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cache
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\refint\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.pdb
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.AssemblyReference.cache
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfoInputs.cache
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfo.cs
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.CoreCompileInputs.cache
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cs
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cache
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\refint\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.pdb
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.staticwebassets.endpoints.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.Development.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\libman.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.exe
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.deps.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.runtimeconfig.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.pdb
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Core.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Identity.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.ClientModel.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Json.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\scopedcss\bundle\Лабораторная_89.styles.css
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.development.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.build.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Лабораторная_89.props
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\________.7E54A1F5.Up2Date
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.genruntimeconfig.cache
+D:\Мои работы\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\ref\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\libman.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.Development.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.exe
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.deps.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.runtimeconfig.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.pdb
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Core.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Identity.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.ClientModel.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Json.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.AssemblyReference.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfoInputs.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfo.cs
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cs
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.development.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.build.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\scopedcss\bundle\Лабораторная_89.styles.css
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\________.7E54A1F5.Up2Date
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\refint\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.pdb
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.genruntimeconfig.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\ref\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.Development.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\appsettings.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\libman.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.exe
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.deps.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.runtimeconfig.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Лабораторная_89.pdb
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Core.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Azure.Identity.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.ClientModel.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Text.Json.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.AssemblyReference.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfoInputs.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.AssemblyInfo.cs
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cs
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.MvcApplicationPartsAssemblyInfo.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.sourcelink.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.build.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.development.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.Лабораторная_89.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.build.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Лабораторная_89.props
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\scopedcss\bundle\Лабораторная_89.styles.css
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\________.7E54A1F5.Up2Date
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\refint\Лабораторная_89.dll
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.pdb
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\Лабораторная_89.genruntimeconfig.cache
+D:\ВУЗ\Герцена\3 курс\Сайты\6 сем\react_studying\Лабораторная_89_backend\backend\Лабораторная_89\obj\Debug\net8.0\ref\Лабораторная_89.dll
